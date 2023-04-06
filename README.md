@@ -1,6 +1,6 @@
-# My pascal programming tasks for the university
+# تسک‌های دانشگاهی من - زبان پاسکال
 
-You can check the tasks and the related files that contains solutions below:
+سوالات داده شده به عنوان تکلیف:
 
 - 1 برنامه ای بنویسید که دما را بر حسب فارنهایت گرفته، معادل آن را به سانتیگراد چاپ نماید.
 
